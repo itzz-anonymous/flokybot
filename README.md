@@ -5,7 +5,7 @@
 ✅-sent ❎-not sent
 OSINT - Instagram user information finder tool**
 
-#REMEMBER ~FLOKY
+# REMEMBER ~FLOKY
 
 # Installation
 ## Termux
