@@ -5,7 +5,8 @@
 OSIANT-instagram user information finder tool**
 
 ## Author
-[![Instagram](https://i.postimg.cc/CK8sWt22/photo-2024-02-14-02-27-25.jpg)(https://www.instagram.com/i3mk.floky)]
+[![Instagram](https://i.postimg.cc/CK8sWt22/photo-2024-02-14-02-27-25.jpg)]
+[(https://www.instagram.com/i3mk.floky)]
 
 # Installation
 ## Termux
