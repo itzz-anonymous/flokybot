@@ -1,8 +1,9 @@
 # INSTAGRAM-TOOL
 **It's report tool and osiant tool for Instagram**
 ## About
-**REPORTING-It's Instagram report sending tool.✅-sented ❎-not sended
-OSIANT-instagram user information finder tool**
+**REPORTING -Instagram Mass reporting bot.
+✅-sent ❎-not sent
+OSINT - Instagram user information finder tool**
 
 #REMEMBER ~FLOKY
 
