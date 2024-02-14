@@ -4,9 +4,7 @@
 **REPORTING-It's Instagram report sending tool.✅-sented ❎-not sended
 OSIANT-instagram user information finder tool**
 
-## Author
-[![Instagram](https://i.postimg.cc/CK8sWt22/photo-2024-02-14-02-27-25.jpg)]
-[(https://www.instagram.com/i3mk.floky)]
+#REMEMBER ~FLOKY
 
 # Installation
 ## Termux
@@ -26,6 +24,7 @@ python3 report.py
 cd flokybot
 python3 osiant.py
 Contact me to get password (PAID)
+<a href="https://www.instagram.com/i3mk.floky">Click here to purchase password for osint tool</a>
 ```
 ## Important ⚠️
 **I am not responsible if you use this for illegal Activity**
