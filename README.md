@@ -4,8 +4,8 @@
 **REPORTING-It's Instagram report sending tool.✅-sented ❎-not sended
 OSIANT-instagram user information finder tool**
 
-## Auther
-[![Instagram](https://www.instagram.com/i3mk.floky)]
+## Author
+[![Instagram](https://i.postimg.cc/CK8sWt22/photo-2024-02-14-02-27-25.jpg)(https://www.instagram.com/i3mk.floky)]
 
 # Installation
 ## Termux
@@ -14,7 +14,7 @@ pkg update
 pkg upgrade 
 pkg install python
 pkg install git
-git clone https://github.com/itzz-anonymous/flokybot
+git clone https://github.com/rememberfloky/flokybot
 cd flokybot
 pip install requests
 python3 report.py
