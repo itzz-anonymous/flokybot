@@ -24,7 +24,7 @@ python3 report.py
 cd flokybot
 python3 osiant.py
 Contact me to get password (PAID)
-<a href="https://www.instagram.com/i3mk.floky">Click here to purchase password for osint tool</a>
+[Click here to purchase password for osint tool](https://www.instagram.com/i3mk.floky)
 ```
 ## Important ⚠️
 **I am not responsible if you use this for illegal Activity**
